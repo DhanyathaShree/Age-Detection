@@ -14,4 +14,22 @@ The project on Age Detection likely involves using various Python libraries and 
 Overall, my project combines elements of data preprocessing, deep learning model development, training, evaluation, and deployment, leveraging popular Python libraries and tools to create an end-to-end solution for age detection from facial images.
 
 
+Great! It sounds like you have two main components for your Age Detection project:
+
+1. **final.ipynb**: This Jupyter Notebook contains the code for training your age detection model using TensorFlow and Keras. In this notebook, you would preprocess your data, define and compile your deep learning model architecture, train the model on your dataset, and save the trained model weights.
+
+2. **gui.py**: This Python script contains the code for the Streamlit web application that serves as the graphical user interface (GUI) for your age detection model. Users can interact with this GUI to upload images and receive predictions on the age of individuals in those images.
+
+To run the GUI application, you would follow these steps:
+
+1. Open a command prompt or terminal window.
+2. Navigate to the directory where the `gui.py` file is located using the `cd` command.
+3. Once you're in the correct directory, run the following command:
+   ```
+   python -m streamlit run gui.py
+   ```
+   This command tells Python to run the `streamlit` module and execute the `gui.py` script.
+4. After running the command, Streamlit will start a local web server and launch the GUI application in your default web browser. You can then use the GUI to upload images and test your age detection model.
+
+Make sure that all necessary dependencies are installed in your Python environment, including Streamlit, TensorFlow, Keras, OpenCV, PIL, and any other libraries you're using in your project.
 
