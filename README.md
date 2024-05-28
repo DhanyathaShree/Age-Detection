@@ -35,7 +35,13 @@ Make sure that all necessary dependencies are installed in your Python environme
    ```
    pip install streamlit tensorflow keras opencv-python pillow pandas seaborn matplotlib numpy sklearn
    ```
+
+
 **Streamlit Output Screen**
+
+**Demo**
+https://github.com/DhanyathaShree/Age-Detection/assets/140679630/c528107a-fa27-4b3e-a0ac-79ef01d29f93
+
 
 ![image](https://github.com/DhanyathaShree/Age-Detection/assets/140679630/369623a0-d753-4dc6-b8ed-c18ef64afb4c)
 
