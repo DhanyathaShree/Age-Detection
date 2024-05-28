@@ -12,3 +12,6 @@ The project on Age Detection likely involves using various Python libraries and 
 5. **Deployment**: Using Streamlit, I created a user-friendly interface for your age detection model, allowing users to upload images and receive predictions on the age of individuals in those images. This could involve building a web application or a standalone GUI application, depending on your preferences and requirements.
 
 Overall, my project combines elements of data preprocessing, deep learning model development, training, evaluation, and deployment, leveraging popular Python libraries and tools to create an end-to-end solution for age detection from facial images.
+
+
+
