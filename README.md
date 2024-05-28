@@ -36,6 +36,8 @@ Make sure that all necessary dependencies are installed in your Python environme
    pip install streamlit tensorflow keras opencv-python pillow pandas seaborn matplotlib numpy sklearn
    ```
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 **Streamlit Output Screen**
 
